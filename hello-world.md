@@ -2,7 +2,7 @@
 {
   "author": "",
   "avatar_url": "",
-  "link_preview_url": "",
+  "link_preview_url": "https://github.com/crevizzle/blog/raw/main/web-dev.jpg",
   "title": "Web Development Basics",
   "subtitle": "An example article for the Yemi blogging platform",
   "published": "",
